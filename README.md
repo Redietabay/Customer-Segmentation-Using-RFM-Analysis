@@ -132,7 +132,7 @@ This project helps businesses:
 
 For questions, feedback, or collaboration:
 
-* 📧 Email: [your-email@gmail.com](abayrediet7@gmail.com)
+* 📧 Email: https://mail.google.com/abayrediet7@gmail.com
 * 🐙 GitHub: https://github.com/Redietabay
 
 ---
